@@ -1,4 +1,4 @@
-# formação react js.
+# formação react js
 
  Repositório destinado a armazenar aquivos desenvolvidos na formação react js
 
